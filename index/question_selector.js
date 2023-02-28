@@ -18,3 +18,11 @@ function selectFourth(){
 var fourthOption = document.querySelector('input[type="radio"][value="D"]');
 fourthOption.checked = true;
 }
+
+
+/*call for function*/
+selectFirst();
+selectSecond();
+selectThird();
+selectFourth();
+/*@pw-hxss question_selectorV1.2.0*/
