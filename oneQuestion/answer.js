@@ -10,3 +10,5 @@ for (var i = 0; i < options.length; i++) {
   options[i].checked = true;
   break;
 }
+/*no need manually enter class of buttons*/
+/*works for checkboxes and ratio*/
